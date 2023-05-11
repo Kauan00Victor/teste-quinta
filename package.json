@@ -1,0 +1,26 @@
+{
+  "name": "teste-quinta",
+  "version": "1.0.0",
+  "description": "Teste JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kauan00Victor/teste-quinta.git"
+  },
+  "keywords": [
+    "Calculadora",
+    "Devops"
+  ],
+  "author": "Kauan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kauan00Victor/teste-quinta/issues"
+  },
+  "homepage": "https://github.com/Kauan00Victor/teste-quinta#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
